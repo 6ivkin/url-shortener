@@ -1,0 +1,22 @@
+# GO
+bin/
+dist/
+*.exe
+*.out
+
+# IDE
+.idea/
+.vscode/
+
+# MacOS
+.DS_Store
+
+# SQLite
+*.sqlite
+*.db
+
+# env & локальные конфиги
+.env
+config/local.yaml
+storage/*
+!storage/.gitkeep
