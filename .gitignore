@@ -16,7 +16,7 @@ dist/
 *.db
 
 # env & локальные конфиги
-.env
+*.env
 config/local.yaml
 storage/*
 !storage/.gitkeep
